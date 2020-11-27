@@ -13,6 +13,7 @@ body{
 .seccion-noticias__post{
     margin: 4px;
     width: 50%;
+    height: 250px;
     box-shadow: 1px 2px 4px 0 rgba(21,99,157,.16);
     border-radius: 10px;
     background-color: #24385b;
@@ -20,7 +21,7 @@ body{
 
 .seccion-noticas__titulo{
     text-align: center;
-    padding: 2px;
+    padding: 5px;
     font-family: 'Roboto', sans-serif;
     font-size: 30px;
     color: #eff3f8;
