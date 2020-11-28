@@ -1,11 +1,12 @@
 
 body{
-    margin: 0 auto;
+    margin: 0px auto;
+    width: 1200px;
 }
 
 .seccion-noticias  {
     padding: 0 8px;
-    width: 1200px;
+    
    
 }
 .seccion-noticias__noticia{
