@@ -111,3 +111,35 @@ body{
     font-size: 1.5em;
     color: #3e3e3e;
 }
+
+.servicios{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.servicios__post{
+    width: 33%;
+   margin: 5px;
+   box-shadow: 3px 3px 4px 3px rgba(21,99,157,.16);
+   border-radius: 10px;
+}
+
+.servicios__imagen{
+    width: 96%;
+    height: 300px;
+    display: block;
+    margin: 7px auto;   
+}
+
+.servicios__titulo{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.servicios__descripcion{
+    font-family: 'Thasadith', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin: 5px 10px;
+}
