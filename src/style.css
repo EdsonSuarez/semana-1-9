@@ -181,3 +181,39 @@ body{
     font-family: 'Thasadith', sans-serif;
     text-decoration: none; 
 }
+.column {
+    float: left;
+    width: 18.5%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+
+  .card {
+    padding: 10px;
+    height: 500px;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .botonimagen {
+    background-image: url(images/git.png);
+    background-repeat: no-repeat;
+    height: 70px;
+    width: 70px;
+    background-position: center;
+    text-align: center;
+  }
+
+  .container1 {
+    padding: 0 16px;
+  }
+
+  .rol {
+    color: grey;
+  }
+
+  .column_Footer {
+    float: left;
+    width: 47.5%;
+    margin-bottom: 16px;
+    padding: 10px;
+  }
